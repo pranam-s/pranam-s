@@ -9,11 +9,11 @@
    - 💬 Ask me about Python, Machine Learning, and Cloud Computing
 
    ## 🛠 Skills
-   - Languages: Python, C, C++, C#, Go, JavaScript, SQL
+   - Languages: Python, C, C++, C#, Go, JavaScript, SQL, Lua
    - AI/ML: TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision
    - Cloud: Google Cloud Platform, AWS
    - DevOps: Git, Docker, Kubernetes, Jenkins
-   - Web Development: HTML, CSS, MERN Stack
+   - Web Development: HTML, CSS, JavaScript
 
    ## 🏆 Achievements
    - AI Intern at Infosys Springboard (Top 1000 out of 25,000+ applicants)
