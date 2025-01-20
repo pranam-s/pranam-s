@@ -9,10 +9,10 @@
    - 💬 Ask me about Python, Machine Learning, and Cloud Computing
 
    ## 🛠 Skills
-   - Languages: Python, C, C++, C#, Go, JavaScript, SQL, Lua
+   - Languages: Python, C, C++, JavaScript, SQL, Lua
    - AI/ML: TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision
    - Cloud: Google Cloud Platform, AWS
-   - DevOps: Git, Docker, Kubernetes, Jenkins
+   - DevOps: Git, Docker, Kubernetes
    - Web Development: HTML, CSS, JavaScript
 
    ## 🏆 Achievements
