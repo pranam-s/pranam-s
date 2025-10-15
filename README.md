@@ -1,31 +1,34 @@
-   # Hello, I'm Pranam Srivastava 👋
+### Hi there, I'm Pranam Srivastava 👋
 
-   ## 🚀 About Me
-   I'm a Computer Science Engineering student at IIIT Kota, passionate about AI/ML and solving real-world problems through technology. Recently completed an AI internship at Infosys Springboard, where I worked on an innovative Energy Consumption Forecasting System.
+<p align="left">
+  <a href="https://linkedin.com/in/pranamai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/pranam_ai" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
-   - 🔭 I'm currently working on enhancing my AI/ML skills and contributing to open-source projects
-   - 🌱 I'm currently learning advanced ML techniques and cloud computing
-   - 👯 I'm looking to collaborate on AI/ML projects and innovative tech solutions
-   - 💬 Ask me about Python, Machine Learning, and Cloud Computing
+I'm a Computer Science student at **IIIT Kota** with a deep passion for building intelligent and accessible technology. My journey is driven by my experience as a visually impaired developer, which gives me a unique perspective on creating intuitive, human-centered software.
 
-   ## 🛠 Skills
-   - Languages: Python, C, C++, JavaScript, SQL, Lua
-   - AI/ML: TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision
-   - Cloud: Google Cloud Platform, AWS
-   - DevOps: Git, Docker, Kubernetes
-   - Web Development: HTML, CSS, JavaScript
+I recently completed my **STEP Internship at Google**, where I had the incredible opportunity to contribute to agentic AI and developer tools within the Workspace team.
 
-   ## 🏆 Achievements
-   - AI Intern at Infosys Springboard (Top 1000 out of 25,000+ applicants)
-   - Hacktoberfest 2023 Participant
-   - 10 Google Cloud & Google Arcade Badges
+---
 
-   ## 📊 GitHub Stats
-   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pranam-s&show_icons=true&theme=radical)
+**🚀 What I'm Focused On:**
 
-   ## 🔝 Top Languages
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranam-s&layout=compact)
+-   **Co-Founding [VedAI](https://github.com/pranam-s):** Architecting and building an AI-powered platform to make visual STEM content accessible for blind and low-vision students. (launching soon!)
+-   **Leading the Community:** As the **Campus Mantri** for the [@GeeksforGeeks](https://github.com/GeeksforGeeks) chapter and a former **AI/ML Lead** at @GDG IIIT Kota, I'm passionate about fostering tech communities.
+-   **Continuous Learning:** Diving deeper into latest trends, Agentic AI, RAG architectures, and high-performance computing.
 
-   ## 📫 How to reach me
-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pranamai)
-   
+---
+
+**🛠️ My Tech Stack:**
+
+-   **Languages:** Python, C++, JavaScript, Java, SQL, Shell Scripting
+-   **AI/ML:** Agentic AI, RAG, TensorFlow, PyTorch, Scikit-learn, LLMs, Computer Vision (OpenCV), NLP
+-   **Cloud & DevOps:** Google Cloud Platform (Vertex AI), Docker, Kubernetes, Git, CI/CD
+-   **Core Competency:** **Accessibility Engineering** (WCAG, Section 508, Screen Readers)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranam-s&show_icons=true&theme=radical&rank_icon=github" alt="Pranam's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranam-s&layout=compact&theme=radical" alt="Top Langs">
+</p>
